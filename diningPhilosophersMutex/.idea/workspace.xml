@@ -63,7 +63,7 @@
     <session id="-41369148">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.1" value="3" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.6" value="1" />
@@ -608,17 +608,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file:///media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/diningPhilosophersMutex/src/main/java/Fork.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file:///media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/diningPhilosophersMutex/src/main/java/DiningPhilosophers.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="527">
           <caret line="31" column="38" selection-start-line="31" selection-start-column="38" selection-end-line="31" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/diningPhilosophersMutex/src/main/java/Fork.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
