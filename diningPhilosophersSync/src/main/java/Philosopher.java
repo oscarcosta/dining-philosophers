@@ -18,7 +18,7 @@ public class Philosopher implements Runnable {
         this.rightHanded = rightHanded;
     }
 
-    private void action(String action) throws InterruptedException {
+    private void doAction(String action) throws InterruptedException {
         long millis = ThreadLocalRandom.current().nextInt(0, 100);
         System.out.printf("Philosopher %d is '%s' for %d millis\n", id, action, millis);
         Thread.sleep(millis);
@@ -32,14 +32,14 @@ public class Philosopher implements Runnable {
     public void run() {
         try {
             while (true) {
-                action("thinking");
+                doAction("thinking");
 
                 synchronized (firstFork) {
                     System.out.printf("Philosopher %d picked up %s fork\n", id, getHand(firstFork));
                     synchronized (secondFork) {
                         System.out.printf("Philosopher %d picked up %s fork\n", id, getHand(secondFork));
 
-                        action("eating");
+                        doAction("eating");
 
                         System.out.printf("Philosopher %d put down %s fork\n", id, getHand(firstFork));
                     }

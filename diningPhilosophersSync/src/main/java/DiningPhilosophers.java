@@ -19,7 +19,7 @@ public class DiningPhilosophers {
         }
     }
 
-    public void execute() {
+    public void startDinner() {
         for (Philosopher philosopher : philosophers) {
             new Thread(philosopher).start();
         }
@@ -29,6 +29,6 @@ public class DiningPhilosophers {
         int nPhilosophers = Integer.valueOf(args[0]);
 
         DiningPhilosophers diningPhilosophers = new DiningPhilosophers(nPhilosophers);
-        diningPhilosophers.execute();
+        diningPhilosophers.startDinner();
     }
 }
