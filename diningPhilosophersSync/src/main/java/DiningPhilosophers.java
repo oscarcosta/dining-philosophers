@@ -15,7 +15,7 @@ public class DiningPhilosophers {
 
         // initialize the N philosophers
         for (int i = 0; i < nPhilosophers; i++) {
-            philosophers[i] = new Philosopher(i, forks[i], forks[(i + 1) % nPhilosophers], i != 0);
+            philosophers[i] = new Philosopher(i, forks[i], forks[i], i != 0);
         }
     }
 

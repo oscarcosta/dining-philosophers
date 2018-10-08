@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2e72fdcb-d5ee-4391-9654-61fc20a2ce7c" name="Default Changelist" comment="" />
+    <list default="true" id="2e72fdcb-d5ee-4391-9654-61fc20a2ce7c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../diningPhilosophersSync/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../diningPhilosophersSync/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../diningPhilosophersSync/src/main/java/DiningPhilosophers.java" beforeDir="false" afterPath="$PROJECT_DIR$/../diningPhilosophersSync/src/main/java/DiningPhilosophers.java" afterDir="false" />
+    </list>
     <ignored path="/media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/dining-phil-sema/.gradle/" />
     <ignored path="/media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/dining-phil-sema/build/" />
     <ignored path="/media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/dining-phil-sema/out/" />
+    <ignored path="/media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/diningPhilosophersMutex/.gradle/" />
+    <ignored path="/media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/diningPhilosophersMutex/build/" />
+    <ignored path="/media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/diningPhilosophersMutex/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,9 +62,73 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-41369148">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.1" value="3" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="gradle" value="3" />
+          <entry key="java" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Groovy" value="3" />
+          <entry key="JAVA" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="20" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="20" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file:///media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/diningPhilosophersMutex/src/main/java/DiningPhilosophers.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="77" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="77" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file:///media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/diningPhilosophersMutex/src/main/java/Philosopher.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="16" lean-forward="true" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file:///media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/diningPhilosophersMutex/src/main/java/Fork.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
@@ -75,15 +146,15 @@
         <entry>
           <key>
             <ExternalProjectPojo>
-              <option name="name" value="dining-phil-sema" />
+              <option name="name" value="diningPhilosophersMutex" />
               <option name="path" value="$PROJECT_DIR$" />
             </ExternalProjectPojo>
           </key>
           <value>
             <list>
               <ExternalProjectPojo>
-                <option name="name" value="dining-phil-sema" />
-                <option name="path" value="/media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/dining-phil-sema" />
+                <option name="name" value="diningPhilosophersMutex" />
+                <option name="path" value="/media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/diningPhilosophersMutex" />
               </ExternalProjectPojo>
             </list>
           </value>
@@ -92,172 +163,172 @@
     </option>
     <option name="availableTasks">
       <map>
-        <entry key="/media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/dining-phil-sema">
+        <entry key="/media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/diningPhilosophersMutex">
           <value>
             <list>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the components produced by root project 'dining-phil-sema'. [incubating]" />
-                <option name="linkedExternalProjectPath" value="/media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/dining-phil-sema" />
+                <option name="description" value="Displays the components produced by root project 'diningPhilosophersMutex'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="/media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/diningPhilosophersMutex" />
                 <option name="name" value="components" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Assembles and tests this project and all projects that depend on it." />
-                <option name="linkedExternalProjectPath" value="/media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/dining-phil-sema" />
+                <option name="linkedExternalProjectPath" value="/media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/diningPhilosophersMutex" />
                 <option name="name" value="buildDependents" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the sub-projects of root project 'dining-phil-sema'." />
-                <option name="linkedExternalProjectPath" value="/media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/dining-phil-sema" />
+                <option name="description" value="Displays the sub-projects of root project 'diningPhilosophersMutex'." />
+                <option name="linkedExternalProjectPath" value="/media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/diningPhilosophersMutex" />
                 <option name="name" value="projects" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Assembles main classes." />
-                <option name="linkedExternalProjectPath" value="/media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/dining-phil-sema" />
+                <option name="linkedExternalProjectPath" value="/media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/diningPhilosophersMutex" />
                 <option name="name" value="classes" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the dependent components of components in root project 'dining-phil-sema'. [incubating]" />
-                <option name="linkedExternalProjectPath" value="/media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/dining-phil-sema" />
+                <option name="description" value="Displays the dependent components of components in root project 'diningPhilosophersMutex'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="/media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/diningPhilosophersMutex" />
                 <option name="name" value="dependentComponents" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays all buildscript dependencies declared in root project 'dining-phil-sema'." />
-                <option name="linkedExternalProjectPath" value="/media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/dining-phil-sema" />
+                <option name="description" value="Displays all buildscript dependencies declared in root project 'diningPhilosophersMutex'." />
+                <option name="linkedExternalProjectPath" value="/media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/diningPhilosophersMutex" />
                 <option name="name" value="buildEnvironment" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Runs this project as a JVM application" />
-                <option name="linkedExternalProjectPath" value="/media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/dining-phil-sema" />
+                <option name="linkedExternalProjectPath" value="/media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/diningPhilosophersMutex" />
                 <option name="name" value="run" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Generates Gradle wrapper files." />
-                <option name="linkedExternalProjectPath" value="/media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/dining-phil-sema" />
+                <option name="linkedExternalProjectPath" value="/media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/diningPhilosophersMutex" />
                 <option name="name" value="wrapper" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Assembles test classes." />
-                <option name="linkedExternalProjectPath" value="/media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/dining-phil-sema" />
+                <option name="linkedExternalProjectPath" value="/media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/diningPhilosophersMutex" />
                 <option name="name" value="testClasses" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Generates Javadoc API documentation for the main source code." />
-                <option name="linkedExternalProjectPath" value="/media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/dining-phil-sema" />
+                <option name="linkedExternalProjectPath" value="/media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/diningPhilosophersMutex" />
                 <option name="name" value="javadoc" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Creates OS specific scripts to run the project as a JVM application." />
-                <option name="linkedExternalProjectPath" value="/media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/dining-phil-sema" />
+                <option name="linkedExternalProjectPath" value="/media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/diningPhilosophersMutex" />
                 <option name="name" value="startScripts" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Assembles a jar archive containing the main classes." />
-                <option name="linkedExternalProjectPath" value="/media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/dining-phil-sema" />
+                <option name="linkedExternalProjectPath" value="/media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/diningPhilosophersMutex" />
                 <option name="name" value="jar" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the configuration model of root project 'dining-phil-sema'. [incubating]" />
-                <option name="linkedExternalProjectPath" value="/media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/dining-phil-sema" />
+                <option name="description" value="Displays the configuration model of root project 'diningPhilosophersMutex'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="/media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/diningPhilosophersMutex" />
                 <option name="name" value="model" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Installs the project as a distribution as-is." />
-                <option name="linkedExternalProjectPath" value="/media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/dining-phil-sema" />
+                <option name="linkedExternalProjectPath" value="/media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/diningPhilosophersMutex" />
                 <option name="name" value="installDist" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Processes main resources." />
-                <option name="linkedExternalProjectPath" value="/media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/dining-phil-sema" />
+                <option name="linkedExternalProjectPath" value="/media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/diningPhilosophersMutex" />
                 <option name="name" value="processResources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the tasks runnable from root project 'dining-phil-sema'." />
-                <option name="linkedExternalProjectPath" value="/media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/dining-phil-sema" />
+                <option name="description" value="Displays the tasks runnable from root project 'diningPhilosophersMutex'." />
+                <option name="linkedExternalProjectPath" value="/media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/diningPhilosophersMutex" />
                 <option name="name" value="tasks" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Assembles the main distributions" />
-                <option name="linkedExternalProjectPath" value="/media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/dining-phil-sema" />
+                <option name="linkedExternalProjectPath" value="/media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/diningPhilosophersMutex" />
                 <option name="name" value="assembleDist" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Initializes a new Gradle build." />
-                <option name="linkedExternalProjectPath" value="/media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/dining-phil-sema" />
+                <option name="linkedExternalProjectPath" value="/media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/diningPhilosophersMutex" />
                 <option name="name" value="init" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Runs the unit tests." />
-                <option name="linkedExternalProjectPath" value="/media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/dining-phil-sema" />
+                <option name="linkedExternalProjectPath" value="/media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/diningPhilosophersMutex" />
                 <option name="name" value="test" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Compiles main Java source." />
-                <option name="linkedExternalProjectPath" value="/media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/dining-phil-sema" />
+                <option name="linkedExternalProjectPath" value="/media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/diningPhilosophersMutex" />
                 <option name="name" value="compileJava" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the insight into a specific dependency in root project 'dining-phil-sema'." />
-                <option name="linkedExternalProjectPath" value="/media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/dining-phil-sema" />
+                <option name="description" value="Displays the insight into a specific dependency in root project 'diningPhilosophersMutex'." />
+                <option name="linkedExternalProjectPath" value="/media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/diningPhilosophersMutex" />
                 <option name="name" value="dependencyInsight" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Runs all checks." />
-                <option name="linkedExternalProjectPath" value="/media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/dining-phil-sema" />
+                <option name="linkedExternalProjectPath" value="/media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/diningPhilosophersMutex" />
                 <option name="name" value="check" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Assembles the outputs of this project." />
-                <option name="linkedExternalProjectPath" value="/media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/dining-phil-sema" />
+                <option name="linkedExternalProjectPath" value="/media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/diningPhilosophersMutex" />
                 <option name="name" value="assemble" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Deletes the build directory." />
-                <option name="linkedExternalProjectPath" value="/media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/dining-phil-sema" />
+                <option name="linkedExternalProjectPath" value="/media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/diningPhilosophersMutex" />
                 <option name="name" value="clean" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Compiles test Java source." />
-                <option name="linkedExternalProjectPath" value="/media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/dining-phil-sema" />
+                <option name="linkedExternalProjectPath" value="/media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/diningPhilosophersMutex" />
                 <option name="name" value="compileTestJava" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays all dependencies declared in root project 'dining-phil-sema'." />
-                <option name="linkedExternalProjectPath" value="/media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/dining-phil-sema" />
+                <option name="description" value="Displays all dependencies declared in root project 'diningPhilosophersMutex'." />
+                <option name="linkedExternalProjectPath" value="/media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/diningPhilosophersMutex" />
                 <option name="name" value="dependencies" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Processes test resources." />
-                <option name="linkedExternalProjectPath" value="/media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/dining-phil-sema" />
+                <option name="linkedExternalProjectPath" value="/media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/diningPhilosophersMutex" />
                 <option name="name" value="processTestResources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Displays a help message." />
-                <option name="linkedExternalProjectPath" value="/media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/dining-phil-sema" />
+                <option name="linkedExternalProjectPath" value="/media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/diningPhilosophersMutex" />
                 <option name="name" value="help" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Assembles and tests this project." />
-                <option name="linkedExternalProjectPath" value="/media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/dining-phil-sema" />
+                <option name="linkedExternalProjectPath" value="/media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/diningPhilosophersMutex" />
                 <option name="name" value="build" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Assembles and tests this project and all projects it depends on." />
-                <option name="linkedExternalProjectPath" value="/media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/dining-phil-sema" />
+                <option name="linkedExternalProjectPath" value="/media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/diningPhilosophersMutex" />
                 <option name="name" value="buildNeeded" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Bundles the project as a distribution." />
-                <option name="linkedExternalProjectPath" value="/media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/dining-phil-sema" />
+                <option name="linkedExternalProjectPath" value="/media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/diningPhilosophersMutex" />
                 <option name="name" value="distTar" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Bundles the project as a distribution." />
-                <option name="linkedExternalProjectPath" value="/media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/dining-phil-sema" />
+                <option name="linkedExternalProjectPath" value="/media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/diningPhilosophersMutex" />
                 <option name="name" value="distZip" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the properties of root project 'dining-phil-sema'." />
-                <option name="linkedExternalProjectPath" value="/media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/dining-phil-sema" />
+                <option name="description" value="Displays the properties of root project 'diningPhilosophersMutex'." />
+                <option name="linkedExternalProjectPath" value="/media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/diningPhilosophersMutex" />
                 <option name="name" value="properties" />
               </ExternalTaskPojo>
             </list>
@@ -267,11 +338,14 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="6155838730000" />
+        <entry key="$PROJECT_DIR$" value="6155857902000" />
         <entry key="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" value="307973072" />
         <entry key="/media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/dining-phil-sema/.gradle" value="0" />
         <entry key="/media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/dining-phil-sema/build.gradle" value="3720990299" />
         <entry key="/media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/dining-phil-sema/settings.gradle" value="3083402242" />
+        <entry key="/media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/diningPhilosophersMutex/.gradle" value="0" />
+        <entry key="/media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/diningPhilosophersMutex/build.gradle" value="3720990299" />
+        <entry key="/media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/diningPhilosophersMutex/settings.gradle" value="795481468" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -281,16 +355,16 @@
             <ExternalProjectBuildClasspathPojo>
               <option name="modulesBuildClasspath">
                 <map>
-                  <entry key="/media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/dining-phil-sema">
+                  <entry key="/media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/diningPhilosophersMutex">
                     <value>
                       <ExternalModuleBuildClasspathPojo>
-                        <option name="path" value="/media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/dining-phil-sema" />
+                        <option name="path" value="/media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/diningPhilosophersMutex" />
                       </ExternalModuleBuildClasspathPojo>
                     </value>
                   </entry>
                 </map>
               </option>
-              <option name="name" value="dining-phil-sema" />
+              <option name="name" value="diningPhilosophersMutex" />
               <option name="projectBuildClasspath">
                 <list>
                   <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.2-bin/cghg6c4gf4vkiutgsab8yrnwv/gradle-4.10.2/lib/gradle-kotlin-dsl-1.0-rc-6.jar" />
@@ -393,6 +467,8 @@
         <option value="/media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/dining-phil-sema/src/main/java/DiningPhilosophers.java" />
         <option value="/media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/dining-phil-sema/src/main/java/Fork.java" />
         <option value="/media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/dining-phil-sema/src/main/java/Philosopher.java" />
+        <option value="/media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/diningPhilosophersMutex/src/main/java/Philosopher.java" />
+        <option value="/media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/diningPhilosophersMutex/src/main/java/DiningPhilosophers.java" />
       </list>
     </option>
   </component>
@@ -402,57 +478,47 @@
     <option name="width" value="950" />
     <option name="height" value="1053" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="dining-phil-sema" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dining-phil-sema" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="diningPhilosophersMutex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="diningPhilosophersMutex" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
-              <item name="dining-phil-sema" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dining-phil-sema" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="gradle" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dining-phil-sema" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dining-phil-sema" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="diningPhilosophersMutex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="diningPhilosophersMutex" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="dining-phil-sema" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dining-phil-sema" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="diningPhilosophersMutex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="diningPhilosophersMutex" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
-              <item name="dining-phil-sema" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dining-phil-sema" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="diningPhilosophersMutex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="diningPhilosophersMutex" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dining-phil-sema" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dining-phil-sema" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../barbershop/barbershop" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.22854188" />
@@ -486,13 +552,13 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="960" y="27" width="960" height="1053" extended-state="4" />
+    <frame x="960" y="27" width="950" height="1053" extended-state="4" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2883772" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.3203991" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -501,9 +567,10 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32900432" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.33369565" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Build" order="10" weight="0.32900432" />
+      <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -516,38 +583,47 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file:///media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/dining-phil-sema/build.gradle">
+    <entry file="file:///media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/dining-phil-sema/build.gradle" />
+    <entry file="file:///media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/dining-phil-sema/src/main/java/DiningPhilosophers.java" />
+    <entry file="file:///media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/dining-phil-sema/src/main/java/Fork.java" />
+    <entry file="file:///media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/dining-phil-sema/src/main/java/Philosopher.java" />
+    <entry file="file:///media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/diningPhilosophersMutex/settings.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="13" />
+        <state>
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file:///media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/dining-phil-sema/src/main/java/DiningPhilosophers.java">
+    <entry file="file:///media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/diningPhilosophersMutex/src/main/java/Fork.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="16" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file:///media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/dining-phil-sema/src/main/java/Fork.java">
+    <entry file="file:///media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/diningPhilosophersMutex/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+        <state relative-caret-position="136">
+          <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="14" selection-end-column="1" />
           <folding>
-            <element signature="e#227#228#0" expanded="true" />
-            <element signature="e#258#259#0" expanded="true" />
+            <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file:///media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/dining-phil-sema/src/main/java/Philosopher.java">
+    <entry file="file:///media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/diningPhilosophersMutex/src/main/java/Philosopher.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="39" column="30" selection-start-line="39" selection-start-column="30" selection-end-line="39" selection-end-column="30" />
+        <state relative-caret-position="221">
+          <caret line="13" column="16" lean-forward="true" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///media/home/ocosta/Dropbox/UVic/Courses/CSC564/assignment1/dining-philosophers/diningPhilosophersMutex/src/main/java/DiningPhilosophers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="77" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="77" />
         </state>
       </provider>
     </entry>

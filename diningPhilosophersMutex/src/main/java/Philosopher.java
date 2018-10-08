@@ -6,10 +6,15 @@ public class Philosopher implements Runnable {
     private final Fork firstFork, secondFork;
     private final boolean rightHanded;
 
-    public Philosopher(int id, Fork firstFork, Fork secondFork, boolean rightHanded) {
+    public Philosopher(int id, Fork rightFork, Fork leftFork, boolean rightHanded) {
         this.id = id;
-        this.firstFork = firstFork;
-        this.secondFork = secondFork;
+        if (rightHanded) {
+            this.firstFork = rightFork;
+            this.secondFork = leftFork;
+        } else {
+            this.firstFork = leftFork;
+            this.secondFork = rightFork;
+        }
         this.rightHanded = rightHanded;
     }
 
