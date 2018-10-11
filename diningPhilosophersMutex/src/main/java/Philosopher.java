@@ -28,25 +28,33 @@ public class Philosopher implements Runnable {
         return rightHanded && fork == firstFork ? "right" : "left";
     }
 
+    private void pickUpForks() throws InterruptedException {
+        firstFork.pickUp();
+        System.out.printf("Philosopher %d picked up %s fork\n", id, getHand(firstFork));
+
+        secondFork.pickUp();
+        System.out.printf("Philosopher %d picked up %s fork\n", id, getHand(secondFork));
+    }
+
+    private void putDownForks() {
+        firstFork.putDown();
+        System.out.printf("Philosopher %d put down %s fork\n", id, getHand(firstFork));
+
+        secondFork.putDown();
+        System.out.printf("Philosopher %d put down %s fork\n", id, getHand(secondFork));
+    }
+
     @Override
     public void run() {
         try {
             while (true) {
                 doAction("thinking");
 
-                firstFork.pickUp();
-                System.out.printf("Philosopher %d picked up %s fork\n", id, getHand(firstFork));
-
-                secondFork.pickUp();
-                System.out.printf("Philosopher %d picked up %s fork\n", id, getHand(secondFork));
+                pickUpForks();
 
                 doAction("eating");
 
-                firstFork.putDown();
-                System.out.printf("Philosopher %d put down %s fork\n", id, getHand(firstFork));
-
-                secondFork.putDown();
-                System.out.printf("Philosopher %d put down %s fork\n", id, getHand(secondFork));
+                putDownForks();
             }
         } catch (InterruptedException e) {
             e.printStackTrace();
