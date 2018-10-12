@@ -21,11 +21,15 @@ public class Philosopher implements Runnable {
     private void doAction(String action) throws InterruptedException {
         long millis = ThreadLocalRandom.current().nextInt(0, 100);
         System.out.printf("Philosopher %d is '%s' for %d millis\n", id, action, millis);
-        Thread.sleep(millis);
+        //Thread.sleep(millis);
     }
 
     private String getHand(Fork fork) {
-        return rightHanded && fork == firstFork ? "right" : "left";
+        if (firstFork.equals(fork)) {
+            return rightHanded ? "right" : "left";
+        } else {
+            return rightHanded ? "left" : "right";
+        }
     }
 
     private void pickUpForks() throws InterruptedException {

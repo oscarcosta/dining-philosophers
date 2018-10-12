@@ -10,7 +10,7 @@ public class DiningPhilosophers {
 
         // initialize the N forks
         for (int i = 0; i < nPhilosophers; i++) {
-            forks[i] = new Fork();
+            forks[i] = new Fork(i);
         }
 
         // initialize the N philosophers
